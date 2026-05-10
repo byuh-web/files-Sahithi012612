@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dream Badminton Game</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>My Dream Badminton Game</h1>
+    </header>
+
+    <hr>
+
+    <section>
+
+        <h2>Why I Love Badminton</h2>
+
+        <p>
+            Badminton is a <strong>fast and exciting</strong> sport that requires skill,
+            focus, and teamwork. It is one of my <em>favorite games</em>.
+        </p>
+
+        <p>
+            My dream is to play in a <mark>professional badminton tournament</mark>
+            with players from around the world.
+        </p>
+
+        <p>
+            During the game, players must stay <b>active</b> and move very quickly.
+            Good practice and training are <i>important</i> for success.
+        </p>
+
+        <p>
+            A badminton match usually has 3 sets, and the winner needs
+            21 points<sup>*</sup> to win a set.
+        </p>
+
+        <p>
+            Players should drink H<sub>2</sub>O regularly to stay hydrated
+            during long matches.
+        </p>
+
+        <p>
+            Sometimes players make mistakes or use <del>bad strategies</del>,
+            but coaches help them learn <ins>better techniques</ins>.
+        </p>
+
+        <p>
+            Special HTML characters can also be used such as
+            &lt;badminton&gt;, &amp;, and &copy; Sri Balaji 2026.
+        </p>
+
+        <br>
+
+    </section>
+
+    <footer>
+
+        <blockquote cite="https://www.olympics.com/en/sports/badminton/">
+            "Badminton is one of the fastest racket sports in the world."
+        </blockquote>
+
+        <p>
+            Source Citation:
+            https://www.olympics.com/en/sports/badminton/
+        </p>
+
+        <p>
+            &copy; Sri Balaji 2026 &trade;
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
