@@ -1,44 +1,16 @@
-```css
 body {
   font-family: Arial, Helvetica, sans-serif;
-
   margin: 0;
-
-  background-color: #1f1f1f;
-
-  background-image:
-    url("Images/thailandhome.jpg.jpg.jpg"),
-    linear-gradient(
-      45deg,
-      rgba(255,255,255,0.08) 25%,
-      transparent 25%,
-      transparent 50%,
-      rgba(255,255,255,0.08) 50%,
-      rgba(255,255,255,0.08) 75%,
-      transparent 75%,
-      transparent
-    );
-
-  background-repeat:
-    no-repeat,
-    repeat;
-
-  background-size:
-    cover,
-    40px 40px;
-
-  background-position:
-    center,
-    top left;
-
+  background-image: url("Images/thailandhome.jpg.jpg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   color: white;
 }
 
 header {
   background-color: rgba(0, 0, 0, 0.6);
-
   padding: 25px;
-
   text-align: center;
 }
 
@@ -48,21 +20,15 @@ header h1 {
 
 nav {
   background-color: rgba(0, 0, 0, 0.7);
-
   padding: 15px;
-
   text-align: center;
 }
 
 nav a {
   color: white;
-
   text-decoration: none;
-
   margin: 15px;
-
   font-size: 22px;
-
   font-weight: bold;
 }
 
@@ -72,13 +38,9 @@ nav a:hover {
 
 main {
   background-color: rgba(0, 0, 0, 0.6);
-
   margin: 40px auto;
-
   padding: 30px;
-
   width: 80%;
-
   border-radius: 15px;
 }
 
@@ -88,19 +50,16 @@ main h2 {
 
 main p {
   font-size: 24px;
-
   line-height: 1.6;
 }
 
 ul li {
   font-size: 28px;
-
   margin: 10px 0;
 }
 
 ul li a {
   color: white;
-
   text-decoration: none;
 }
 
@@ -110,23 +69,15 @@ ul li a:hover {
 
 footer {
   background-color: rgba(0, 0, 0, 0.7);
-
   text-align: center;
-
   padding: 15px;
-
   font-size: 20px;
 }
 
 img {
   width: 100%;
-
   max-width: 700px;
-
   display: block;
-
   margin: 20px auto;
-
   border-radius: 10px;
 }
-```
