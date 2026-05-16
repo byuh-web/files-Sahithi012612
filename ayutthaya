@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ayutthaya</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Ayutthaya</h1>
+  <p>The historical city of Thailand.</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="bangkok.html">Bangkok</a>
+  <a href="chiangmai.html">Chiang Mai</a>
+  <a href="phuket.html">Phuket</a>
+  <a href="ayutthaya.html">Ayutthaya</a>
+  <a href="krabi.html">Krabi</a>
+</nav>
+
+<main>
+
+  <h2>About Ayutthaya</h2>
+
+  <img src="Images/ayutthaya1.jpg" alt="Ayutthaya temple">
+
+  <p>
+    Ayutthaya is famous for ancient temples,
+    ruins, and Thai history.
+  </p>
+
+  <img src="Images/ayutthaya2.jpg" alt="Ayutthaya ruins">
+
+  <p>
+    Ayutthaya was once the capital of Thailand.
+  </p>
+
+</main>
+
+<footer>
+  <p>© 2026 Thailand Photo Tour</p>
+</footer>
+
+</body>
+</html>
