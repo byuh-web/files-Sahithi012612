@@ -7,7 +7,7 @@ body {
 }
 
 #wrapper {
-    width: 1000px;
+    width: 2000px;
     margin: 20px auto;
     background-color: rgb(196, 161, 212);
     border: 2px solid #78ecdf;
@@ -17,7 +17,7 @@ body {
 
 /* Header */
 header {
-    height: 100px;
+    height: 200px;
     padding: 20px;
     text-align: center;
 
