@@ -1,3 +1,14 @@
+.logo {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto 15px auto;
+    border-radius: 50%;
+    background-color: white;
+    padding: 8px;
+}
+
 :root {
     --green: #2d6a4f;
     --light-green: #95d5b2;
