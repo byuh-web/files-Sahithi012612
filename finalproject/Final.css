@@ -287,34 +287,40 @@ footer {
         margin: 20px auto;
         padding: 18px;
     }
-
+    @media screen and (max-width: 600px) {
     .fruit-card {
-        flex-direction: column;
+        display: block;
         text-align: center;
-        gap: 15px;
-        padding: 18px;
+        width: 100%;
     }
 
     .fruit-image {
         width: 100%;
+        text-align: center;
+        margin-bottom: 15px;
     }
 
     .fruit-image img {
-        width: 220px;
+        width: 90%;
+        max-width: 260px;
         height: auto;
-        object-fit: contain;
+        display: block;
+        margin: 10px auto;
     }
 
     .fruit-info {
         width: 100%;
+        text-align: left;
     }
 
     .fruit-info h3 {
-        font-size: 24px;
+        text-align: center;
     }
 
     .fruit-info p {
+        width: 100%;
         font-size: 16px;
+        line-height: 1.6;
     }
 
     iframe {
